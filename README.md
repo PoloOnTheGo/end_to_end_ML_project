@@ -13,6 +13,8 @@ N.B. If you are collaborating and the git repo is under an organization, don't f
     $ git config --global user.name "John Doe"
     $ git config --global user.email johndoe@example.com
     
+Create setup.py - this is responsible for creating the machine learning application as a package amd that can be then installed as a package by pip install ..
+
 ##### 2. Data Ingestion
 ##### 3. Data Transformation
 ##### 4. Model Trainer
